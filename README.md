@@ -1,1 +1,1 @@
-# kicad-libraries
+# KiCAD Libraries
