@@ -6,11 +6,11 @@ This repository contains the shared KiCAD libraries for the OpenArgo open-source
 
 The repository is organized as follows:
 
-openargo-kicad-libraries/
-├── symbols/
-├── footprints/
-├── 3d-models/
-├── templates/
+openargo-kicad-libraries/\
+├── symbols/\
+├── footprints/\
+├── 3d-models/\
+├── templates/\
 └── scripts/
 
 ## Usage
